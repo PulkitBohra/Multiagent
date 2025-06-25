@@ -1,0 +1,18 @@
+[
+    {
+      "orderId": null, 
+      "amount": 200,
+      "paymentDate": "2023-10-16",
+      "paymentMethod": "credit_card",
+      "transactionId": "PAY123456",
+      "status": "completed"
+    },
+    {
+      "orderId": null, 
+      "amount": 100,
+      "paymentDate": "2023-10-25",
+      "paymentMethod": "bank_transfer",
+      "transactionId": "PAY654321",
+      "status": "completed"
+    }
+  ]

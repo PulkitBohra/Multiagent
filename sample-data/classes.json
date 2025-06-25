@@ -1,0 +1,27 @@
+[
+    {
+      "courseId": null, 
+      "instructor": "Deepak Chopra",
+      "startDate": "2023-11-01",
+      "endDate": "2023-11-29",
+      "schedule": [
+        { "day": "Monday", "startTime": "09:00", "endTime": "10:00" },
+        { "day": "Wednesday", "startTime": "09:00", "endTime": "10:00" }
+      ],
+      "maxCapacity": 15,
+      "status": "upcoming",
+      "location": "Studio A"
+    },
+    {
+      "courseId": null,
+      "instructor": "Sara Ali",
+      "startDate": "2023-11-05",
+      "endDate": "2023-12-03",
+      "schedule": [
+        { "day": "Sunday", "startTime": "11:00", "endTime": "12:30" }
+      ],
+      "maxCapacity": 10,
+      "status": "upcoming",
+      "location": "Studio B"
+    }
+  ]

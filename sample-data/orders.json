@@ -1,0 +1,20 @@
+[
+    {
+      "clientId": null, 
+      "courseId": null, 
+      "classIds": [], 
+      "orderDate": "2023-10-15",
+      "amount": 200,
+      "status": "paid",
+      "paymentDueDate": "2023-10-30"
+    },
+    {
+      "clientId": null, 
+      "courseId": null,
+      "classIds": [],
+      "orderDate": "2023-10-20",
+      "amount": 250,
+      "status": "pending",
+      "paymentDueDate": "2023-11-05"
+    }
+  ]

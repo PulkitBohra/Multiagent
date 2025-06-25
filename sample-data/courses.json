@@ -1,0 +1,29 @@
+[
+    {
+      "name": "Yoga Beginner",
+      "description": "Introduction to basic yoga poses and breathing techniques",
+      "duration": 8,
+      "price": 200,
+      "category": "Yoga",
+      "level": "beginner",
+      "isActive": true
+    },
+    {
+      "name": "Advanced Pilates",
+      "description": "Advanced pilates techniques for core strength",
+      "duration": 6,
+      "price": 250,
+      "category": "Pilates",
+      "level": "advanced",
+      "isActive": true
+    },
+    {
+      "name": "Meditation Fundamentals",
+      "description": "Learn basic meditation techniques for stress relief",
+      "duration": 4,
+      "price": 150,
+      "category": "Meditation",
+      "level": "beginner",
+      "isActive": true
+    }
+  ]

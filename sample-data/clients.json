@@ -1,0 +1,26 @@
+[
+    {
+      "name": "Priya Sharma",
+      "email": "priya.sharma@example.com",
+      "phone": "+1234567890",
+      "address": "123 Yoga St, Mumbai",
+      "status": "active",
+      "registrationDate": "2023-01-15"
+    },
+    {
+      "name": "Raj Patel",
+      "email": "raj.patel@example.com",
+      "phone": "+1987654321",
+      "address": "456 Meditation Ave, Delhi",
+      "status": "active",
+      "registrationDate": "2023-02-20"
+    },
+    {
+      "name": "Amit Singh",
+      "email": "amit.singh@example.com",
+      "phone": "+1122334455",
+      "address": "789 Wellness Rd, Bangalore",
+      "status": "inactive",
+      "registrationDate": "2023-03-10"
+    }
+  ]
